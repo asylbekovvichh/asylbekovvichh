@@ -1,5 +1,5 @@
 ### Hi there 👋, Who is Merey?
-#### Hello , I am Merey Kaliyev
+#### Hello 
 This is Merey , who is interested in various areas such as back-end , front-end , game-development , design. Be with me it will be interesting : )
 
 Skills: HTML / CSS / Python / C++ / JavaScript
