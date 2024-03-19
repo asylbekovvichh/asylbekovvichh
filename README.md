@@ -8,9 +8,12 @@ Skills: HTML / CSS / Python / C++ / JavaScript
 - 🌱 I’m currently learning BACK-end , Front-end , game dev 
 - 💬 Ask me about C++ , Python 
 - 📫 How to reach me: Telegram : https://t.me/jahhseeh 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asylbekovvichh)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Merey Kaliyev/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shekaradanasam/)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asylbekovvichh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Merey Kaliyev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shekaradanasam/)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=asylbekovvichh)](https://github.com/ryo-ma/github-profile-trophy)
 
